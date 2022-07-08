@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\bin\Debug\net6.0\Method_Loops_Conditionals.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\bin\Debug\net6.0\Method_Loops_Conditionals.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\bin\Debug\net6.0\Method_Loops_Conditionals.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\bin\Debug\net6.0\Method_Loops_Conditionals.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\bin\Debug\net6.0\Method_Loops_Conditionals.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\refint\Method_Loops_Conditionals.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\Method_Loops_Conditionals.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Methods_Lc\Method_Loops_Conditionals\Method_Loops_Conditionals\obj\Debug\net6.0\ref\Method_Loops_Conditionals.dll
